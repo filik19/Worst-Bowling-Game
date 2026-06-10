@@ -10,4 +10,4 @@ These are the currently supported versions.
 
 ## Reporting a Vulnerability
 
-To report a vulnerability create an issue in the repository
+To report a vulnerability, click "Security and quality" and "Report a vulnerability".
