@@ -5,4 +5,4 @@ Simply, download a version, unzip and run "Worst Bowling Game.exe". Simple as de
 # How to quit the game
 use alt+f4, i am planning to make esc quit the game but it is WIP
 # DEVELOPMENT CANCELED.
-the development has been canceled, more infor here: https://filik19.itch.io/worst-bowling-game
+the development has been canceled, more info here: https://filik19.itch.io/worst-bowling-game
