@@ -1,5 +1,5 @@
-## THIS REPOSITORY IS NO LONGER RECEIVING UPDATES & RELEASES
-### moved [here](https://filik19.itch.io/worst-bowling-game)
+## THIS REPOSITORY NO LONGER RECEIVES RELEASES
+### this repository is not receiving any releases from the project, it is moved [here](https://filik19.itch.io/worst-bowling-game). this repository is still going to be up for the wiki.
 
 # The Worst Bowling Game
 The "WORST" Bowling Game is a bowling game (very unexpected) that sucks. 
